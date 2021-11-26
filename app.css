@@ -1,0 +1,78 @@
+body {
+  font-family: "Karla", sans-serif;
+  background-color: hsl(204, 43%, 93%);
+}
+
+.container {
+  width: 50%;
+  box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
+  border-radius: 12px;
+}
+
+#community {
+  padding: 32px;
+  background-color: white;
+}
+
+#subscription {
+  padding: 32px;
+  background-color: hsl(179, 62%, 43%);
+  color: hsl(204, 43%, 93%);
+}
+
+#whyus {
+  padding: 32px;
+  padding-bottom: 0;
+  background-color: hsl(179, 59%, 54%);
+  color: hsl(204, 43%, 93%);
+}
+
+button {
+  background-color: hsl(71, 73%, 54%);
+  border: none;
+  font-weight: 700;
+  color: hsl(204, 43%, 93%);
+  width: 100%;
+  border-radius: 8px;
+  padding: 8px 0;
+}
+
+h1 {
+  color: hsl(179, 62%, 43%);
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+#h2-primary {
+  color: hsl(71, 73%, 54%);
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+p {
+  font-size: 16px;
+}
+
+#community p {
+  color: hsl(218, 22%, 67%);
+}
+
+.h2-secondary {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  font-size: 16px;
+}
+
+span {
+  font-size: 24px;
+  font-weight: 700;
+  margin-right: 8px;
+}
